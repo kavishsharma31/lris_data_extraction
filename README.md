@@ -11,8 +11,7 @@ LRIS data extraction requirements.
 - Demonstrates automation-first, human-verification-assisted workflow
 
 ## Files
-- `lris_data_extraction.py` – Main data extraction script
-- `sample_input/` – Sample input CSV used for demonstration
+- `lris_engine.py` - Main data extraction script
 
 ## Assumptions
 - The input file is a valid CSV file and represents structured output generated from scanned Jamabandi records.
